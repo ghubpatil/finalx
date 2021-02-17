@@ -710,9 +710,9 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 }
 .section2 .sec2contactform input[type="submit"] {
 	padding: 15px 40px;
-    color: #fff;
+    color: #000;
     border: 0;
-    background: #A44DD8;
+    background: #e85a21;
     font-size: 16px;
     text-transform: uppercase;
     margin: 7px 0;
