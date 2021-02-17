@@ -195,7 +195,8 @@ ul li, ol li {
   border-radius: 4px;
   cursor: pointer;
   font-weight: 400;
-  color: #fff;
+
+  background-color:#e85a21 ;
   text-transform: uppercase;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -212,7 +213,7 @@ ul li, ol li {
 .btn:active {
   box-shadow: none;
   outline: none;
-  color: #fff;
+  color: #000;
 }
 
 .btn-common {
@@ -1758,11 +1759,13 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Footer Area Start */
 .footer-area {
-  background: #f3f4f3;;
+  background: #f3f4f3;
+  font-family: "arial", Arial, Helvetica, sans-serif;
 }
 
 .footer-area h3 {
   font-size: 20px;
+  font-family: "arial", Arial, Helvetica, sans-serif;
   color: #000;
   font-weight: 900;
   padding-bottom: 10px;
@@ -1771,6 +1774,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area p {
   font-size: 14px;
+  font-family: "arial", Arial, Helvetica, sans-serif;
   color: #000;
   line-height: 20px;
   margin: 0;
@@ -1789,6 +1793,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area .footer-social li {
   display: inline-block;
+   
 }
 
 .footer-area .footer-social li a {
@@ -1797,7 +1802,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 35px;
   height: 35px;
   line-height: 35px;
-  display: block;
+  display: table;
   text-align: center;
   border-radius: 4px;
   font-size: 15px;
@@ -1830,6 +1835,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area .footer-social li .google-plus {
   background: #d34836;
+}
+
+.footer-area .footer-social li .instagram {
+  background: #e1306c; 
 }
 
 .footer-area .footer-text p {
@@ -2300,6 +2309,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #main-slide .carousel-caption .btn {
   margin: 25px 25px 0px 0px;
+  background-color:#e85a21; ;
 }
 
 #main-slide .carousel-control-next,
