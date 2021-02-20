@@ -28,8 +28,8 @@ body {
     width: 100%;
     height: auto;
     font-size: 16px;
-    font-family: Dubai-Light;
-		/* background: rgba(30,30,30); */
+    font-family: "arial", Arial, Helvetica, sans-serif;
+    /* background: rgba(30,30,30); */
 }
 .testim {
 		width: 100%;
@@ -172,8 +172,10 @@ body {
 }
 
 .testim .cont div p {
-    font-size: 1.15em;
+    font-size: 14px;
     color: #000;
+    font-family: 'Lato', sans-serif;
+
     width: 80%;
     margin: auto;
 }
@@ -616,7 +618,9 @@ body {
 	}
 	
 	.testim .cont div p {
-		line-height: 25px;
+		line-height: 14px;
+        font-family: "arial", Arial, Helvetica, sans-serif;
+
 	}
 
 }
