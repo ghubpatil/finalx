@@ -673,6 +673,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 .section2 {
     width: 1200px;
     margin: 25px auto;
+    font-family: "arial", Arial, Helvetica, sans-serif;
 }
 .section2 .col2 {
 	width: 48.71%;
@@ -703,6 +704,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 .section2 .sec2contactform textarea {
     padding: 18px;
     border: 0;
+    font-family: "arial", Arial, Helvetica, sans-serif;
     background: #EDEDED;
     margin: 7px 0;
 }
@@ -726,6 +728,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 	font-weight: normal;
     margin: 20px 0;
     margin-top: 30px;
+    font-family: "arial", Arial, Helvetica, sans-serif;
     border-bottom: 1px solid #ddd;
     padding-bottom: 19px;
     color: #A44DD8;
