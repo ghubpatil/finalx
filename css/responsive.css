@@ -160,7 +160,14 @@
   }
   .section-sub {
     font-size: 16px;
+    
   }
+/* 
+.container1   img {
+    display: block;
+  max-width: 100%;
+  height: auto;
+  } */
   #main-slide .carousel-caption {
     top: 22%;
   }
